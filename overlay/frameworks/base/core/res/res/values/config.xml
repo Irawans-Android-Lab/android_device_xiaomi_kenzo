@@ -409,9 +409,6 @@
           The default is false. -->
     <bool name="config_suspendWhenScreenOffDueToProximity">true</bool>
 
-   <!-- Whether to cleanup fingerprints upon connection to the daemon and when user switches -->
-    <bool name="config_cleanupUnusedFingerprints">false</bool>
-
    <!-- Does the notification LED support multiple colors?
         Used to decide if the user can change the colors -->
    <bool name="config_multiColorNotificationLed">true</bool>
